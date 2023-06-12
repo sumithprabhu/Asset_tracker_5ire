@@ -5,7 +5,7 @@ A project to verify authenticity of the product.
 
 This project solves the major problem in supply chain management and brings in the option of transparency , which was never an option. Currently the project has a main capability of authentifing the order made by manufacturer and to be delivered to the distributor. Future scope for this project is to implement it completely into supply chain system from end to end points. 
 
-The project's smart contract was deployed upon shardeum testnet, and here is the contract address : 0x04b4AA5A55fD666c588fe51ccc000e14F6101B70
+**The project's smart contract was deployed upon 5ire testnet, and here is the contract address : 0x04b4AA5A55fD666c588fe51ccc000e14F6101B70 **
 
 Features:
 -
@@ -17,7 +17,7 @@ Features:
 To Run this project on your local system , follow the below steps:
 1) Clone the repo
 ```
-git clone https://github.com/sumithprabhu/-Fake_product_identification_shardeum
+git clone https://github.com/sumithprabhu/Asset_tracker_5ire
 ```
 2) Change Directory
 ```
@@ -31,9 +31,6 @@ npm install
 ```
 REACT_APP_CONTRACT_ADD = "REPLACE_WITH_CONTRACT_ADDRESS"
 
-REACT_APP_WALLET_ADD = "REPLACE_WITH_PRIMARY_WALLET_ADDRESS"
-
-REACT_APP_ETHERSCAN_API_KEY = "REPLACE_WITH_ETHERSCAN_API_KEY"
 ```
 5) Run the code
 ``` 
@@ -53,8 +50,8 @@ ___
 ## Screenshots
 
 ![App Screenshot](https://github.com/sumithprabhu/-Fake_product_identification_shardeum/blob/main/Client/Images/Screenshot_20230107_203132.png?raw=true)
-
-                                      Dashboard
+ 
+                                                  Dashboard
 
 
 
